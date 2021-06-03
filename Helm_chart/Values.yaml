@@ -1,3 +1,0 @@
-containers:
-  image: simyrun/nginx
-replicaCount: 3
