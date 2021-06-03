@@ -1,6 +1,0 @@
-apiVersion : v2
-name : App-HelmChart
-description: Gruzdev helm chart
-type : application
-version : 3.6.0
-appVersion : "1.0.0"
