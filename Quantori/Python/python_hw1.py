@@ -1,0 +1,1 @@
+print("Hello Rasul, first hw is done")
