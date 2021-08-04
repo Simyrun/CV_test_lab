@@ -13,6 +13,6 @@ test_list = input("Write you number line : ").split(' ')
 for i in range(0, len(test_list)):  #цикл перевода строчного списка в числовой
     test_list[i] = int(test_list[i])
 
-#lst = [2, 1, 8, 4, 2, 3, 5, 7, 10, 18, 82, 2]
+
 
 print(find_missing(sorted(test_list)))
