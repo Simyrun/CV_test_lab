@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efcda38a-2b9b-4150-9942-e93d48f17225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/hw5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/hw6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/hw2" beforeDir="false" afterPath="$PROJECT_DIR$/venv/hw2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/hw2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/hw3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/hw4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/hw5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/hw6.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,16 +198,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
